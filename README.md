@@ -1,4 +1,4 @@
-# task app made with React Typescript # 
+# Rock Paper Scissors app made with React Typescript # 
 
 🔗https://giorgimumladze.github.io/rock-paper-scissors-app/
 
